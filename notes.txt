@@ -1,0 +1,27 @@
+pop -> procedure oriented programming 
+
+oop -> object oriented programming 
+    class : object
+    bottom up 
+
+class - group , logical, general 
+object - member , physical , special 
+
+car  - class? object? 
+dhirajSir -> 
+
+class -> property ->
+         data member and member function
+         variable - function 
+object use the property of class 
+
+
+c++ files have .cpp extension 
+
+
+by default all variables are private in class 
+1) to access that we need to mark as public 
+2) access using public function 
+ 
+
+
